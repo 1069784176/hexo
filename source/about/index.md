@@ -1,8 +1,7 @@
 ---
-title: 关于
-description: 个人简介绍：
+title: 关于/留言
 layout: about
-comments: false
+comments: true
 sidebar: custom
 ---
 
@@ -28,20 +27,6 @@ sidebar: custom
   ]
 }
 ```
-分类&标签：
-
-所有分类:
-技术,生活
-
-所有标签:
-c/c++,csharp/.net,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔,生活随笔,其他随笔
-
-技术(分类)：
-c/c++,csharp/.net,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔
-
-生活(分类)：
-效率工具/插件,生活随笔
-
 
 
 
