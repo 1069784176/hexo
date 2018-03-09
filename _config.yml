@@ -81,3 +81,5 @@ deploy:
   repo: git@github.com:1069784176/1069784176.github.io.git
   branch: [master]
 
+  
+

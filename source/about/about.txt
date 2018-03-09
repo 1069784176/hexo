@@ -1,14 +1,10 @@
----
-title: å…³äº/ç•™è¨€
-layout: about
-comments: true
-sidebar: custom
----
-
-```csharp
 {
-  name: 'é˜¿å…´',
-  address: 'å¹¿ä¸œçœå¹¿å·å¸‚',
+  name: '°¢ĞË'
+  age: 23,
+  gender: 'ÄĞ',
+  experience: '2Äê',
+  address: '¹ã¶«Ê¡¹ãÖİÊĞ',
+  education: '´ó×¨',
   QQ: 1069784176
   github: 'https://github.com/1069784176',
   blog: 'https://1069784176.github.io',
@@ -18,13 +14,7 @@ sidebar: custom
   skills: [
     ['C', 'C++', 'C#', '.Net', 'Sql', 'Js'],
     ['Linux', 'Qt'],
-    ['ç½‘ç«™å¼€å‘', 'æ¸¸æˆæœåŠ¡å™¨'],
-    ['æ•°æ®åº“'], 
+    ['ÍøÕ¾¿ª·¢', 'ÓÎÏ··şÎñÆ÷'],
+    ['Êı¾İ¿â'], 
   ]
 }
-```
-
-
-
-
- 
