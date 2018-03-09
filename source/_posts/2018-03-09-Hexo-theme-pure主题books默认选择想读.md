@@ -1,5 +1,6 @@
 ---
 title: Hexo-theme-pure主题books默认选择想读
+date: 2013/7/13 20:46:25
 categories: 技术
 tags: 工具/插件
 ---
