@@ -1,4 +1,16 @@
 # links
+github:
+  link: https://github.com/
+  avatar: /images/favatar/github-logo.png
+  desc: 面向开源及私有软件项目的托管平台
+itellyon.cn:
+  link: https://msdn.itellyou.cn/
+  avatar: /images/favatar/itellyou.cn-logo.png
+  desc: windows系统和开发工具
+json.cn:
+  link: https://www.json.cn/
+  avatar: 
+  desc: json字符串解析网站
 创造狮:
   link: http://chuangzaoshi.com/
   avatar: /images/favatar/chuangzaoshi-logo.png
