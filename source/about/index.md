@@ -10,8 +10,8 @@ sidebar: custom
   name: '阿兴',
   address: '广东省广州市',
   QQ: 1069784176
-  github: 'https://github.com/1069784176',
-  blog: 'https://1069784176.github.io',
+  github: 'https://github.com/GuoXingGitHub',
+  blog: 'https://GuoXingGitHub.github.io',
   email: '15692413487@163.com',
   description: 'hahaha...',
 

@@ -104,7 +104,7 @@ share:
 
 # Github
 github: 
-  username: 1069784176  # github username
+  username: GuoXingGitHub  # github username
 
 # Comment
 # Gitment
@@ -174,11 +174,11 @@ profile:
   author_title: 程序开发
   author_description: #个人简介。
   location: Guangzhou, China
-  follow: https://github.com/1069784176
+  follow: https://github.com/GuoXingGitHub
   # Social Links
   social:
     links:
-      github: https://github.com/1069784176
+      github: https://github.com/GuoXingGitHub
       weibo: http://weibo.com
       twitter: https://twitter.com
       # facebook: /
@@ -196,8 +196,8 @@ profile:
     数据库: ★★★★☆
   # My Personal Links
   links:
-    Github: https://github.com/1069784176
-    Blog: https://1069784176.github.io/
+    Github: https://github.com/GuoXingGitHub
+    Blog: https://GuoXingGitHub.github.io/
   # My Personal Labels
   labels:
     - 程序员
@@ -210,4 +210,4 @@ profile:
       date: 2016
   # My Personal Projects
   projects:
-    1069784176/cef3: https://github.com/1069784176/cef3
+    GuoXingGitHub/cef3: https://github.com/GuoXingGitHub/cef3
