@@ -6,16 +6,14 @@ tags: [linux,windows,虚拟机]
 ---
 
 
-### 1.系统平台:
+## 系统平台
 系统平台：win8.1、virtualbox4.3.8、ubuntu12.04
-
-#### 1.1:
 安装VBoxGuestAdditions_4.3.8.iso增强工具，安装完毕后根据提示重启Ubuntu，具体操作如下：
 
-##### 1.1.1:
+### Step 1
 <img src="1.png"/>
 
-##### 1.1.2.安装virtualbox增强包:
+### Step 2.安装virtualbox增强包
 ```shell
 linjiqin@ubuntu:~$ cd ~
 linjiqin@ubuntu:~$ su -
@@ -34,15 +32,15 @@ root@ubuntu:/media/VBOXADDITIONS_4.3.8_92456# sudo ./VBoxLinuxAdditions.run #安
 root@ubuntu:/media/VBOXADDITIONS_4.3.8_92456# 
 ```
 
-#### 1.2:
+### Step 3
 先关闭ubuntu，在virtualbox“设置”中找到“共享文件夹”，点击进入，点击右边添加目录按钮，添加windows中要共享的目录，取一个名。比如我在D盘建一个名为share的文件夹，如下图：
 <img src="2.png"/>
 
-#### 1.3:
+### Step 4
 重启ubuntu，在ubuntu系统最上端“设备”中找到“共享文件夹”，点击进入，点击右边添加目录按钮，添加第二步操作的共享目录，如下图：
 <img src="3.png"/>
 
-#### 1.4:
+### Step 5
 进入虚拟Ubuntu，在命令行终端下输入：
 sudo mkdir /mnt/shared
 sudo mount -t vboxsf share /mnt/shared
@@ -50,10 +48,10 @@ sudo mount -t vboxsf share /mnt/shared
 要想自动挂载的话，可以在/etc/fstab中添加一项
 share /mnt/shared vboxsf rw,gid=100,uid=1000,auto 0 0
 
-#### 1.5.卸载的话使用下面的命令:
+### 卸载的话使用下面的命令:
 sudo umount -f /mnt/shared
 
-#### 1.6.<font color=red>注意</font>:
+### <font color=red>注意</font>
 共享文件夹的名称千万不要和挂载点的名称相同。比如，上面的挂载点是/mnt/shared，如果共享文件夹的名字也是shared的话，在挂载的时候就会出现如下的错误信息：/sbin/mount.vboxsf: mounting failed with the error: Protocol error
 
 
