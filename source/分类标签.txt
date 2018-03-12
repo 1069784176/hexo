@@ -4,10 +4,10 @@
 技术,生活
 
 所有标签:
-c语言,c++,csharp,.net,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔,生活随笔,其他随笔,虚拟机
+c语言,c++,csharp,.net,python,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔,生活随笔,其他随笔,虚拟机
 
 技术(分类)：
-c语言,c++,csharp,.net,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔
+c语言,c++,csharp,.net,python,linux,windows,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔
 
 生活(分类)：
 效率工具/插件,生活随笔
