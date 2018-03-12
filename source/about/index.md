@@ -4,6 +4,9 @@ layout: about
 comments: true
 sidebar: custom
 ---
+<div align=center>
+<img src='../images/avatar.jpg' width="100px" height="100px" alt="图片描述文字"/>
+</div>
 
 ```csharp
 {
