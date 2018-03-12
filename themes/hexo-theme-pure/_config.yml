@@ -8,6 +8,7 @@ menu:
   Books: books     #This is your books page
   # Movies: movies   #This is your movies page
   # Games: games   #This is your games page
+  Musics: musics   #This is your musics page
   Links: links  # 友链
   About: about  # 关于
 
@@ -20,6 +21,7 @@ menu_icons:
   tags: icon-tags
   repository: icon-project  
   books: icon-book-fill
+  musics: icon-cup-fill
   # movies: icon-eye
   # games: icon-eye
   links: icon-friendship
