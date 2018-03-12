@@ -1,3 +1,7 @@
 *.log
 node_modules/
 public/
+
+_config.yml
+/themes/_config.yml
+
